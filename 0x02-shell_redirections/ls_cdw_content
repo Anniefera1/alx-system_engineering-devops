@@ -1,5 +1,5 @@
 total 52
-drwxr-xr-x 2 root root 333 Mar 13 10:31 .
+drwxr-xr-x 2 root root 333 Mar 13 10:36 .
 drwxr-xr-x 6 root root 121 Mar 13 04:57 ..
 -rw-r--r-- 1 root root   0 Mar 13 05:08 [
 -rw-r--r-- 1 root root   0 Mar 13 05:08 ]
@@ -13,11 +13,11 @@ drwxr-xr-x 6 root root 121 Mar 13 04:57 ..
 -rwxr--r-- 1 root root  29 Mar 13 05:22 5-firstlines
 -rwxr--r-- 1 root root  33 Mar 13 10:19 6-third_line
 -rwxr--r-- 1 root root  72 Mar 13 05:26 7-file
--rwxr--r-- 1 root root  37 Mar 13 10:30 8-cwd_state
+-rwxr--r-- 1 root root  36 Mar 13 10:36 8-cwd_state
 -rw-r--r-- 1 root root   0 Mar 13 05:08 clear
 -rw-r--r-- 1 root root   0 Mar 13 05:08 cler
 -rw-r--r-- 1 root root   8 Mar 13 07:29 file_2
 -rw-r--r-- 1 root root  58 Mar 13 08:04 iacta
--rw-r--r-- 1 root root   0 Mar 13 10:31 ls_cdw_content
+-rw-r--r-- 1 root root   0 Mar 13 10:36 ls_cdw_content
 -rw-r--r-- 1 root root  34 Mar 13 04:58 README.md
 -rw-r--r-- 1 root root   0 Mar 13 05:08 vim
