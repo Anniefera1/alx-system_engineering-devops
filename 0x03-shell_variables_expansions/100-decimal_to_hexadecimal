@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%&BINARYx\n $DECIMAL"
+printf '%x\n $DECIMAL'
